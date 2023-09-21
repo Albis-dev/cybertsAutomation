@@ -1,4 +1,4 @@
-name: dongle
+name: cybertsAutomation
 channels:
   - conda-forge
   - defaults
@@ -60,4 +60,3 @@ dependencies:
   - wheel=0.41.1=pyhd8ed1ab_0
   - wsproto=1.2.0=pyhd8ed1ab_0
   - xz=5.2.6=h166bdaf_0
-prefix: /home/tdb/miniconda3/envs/dongle
